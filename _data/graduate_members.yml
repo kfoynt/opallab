@@ -16,7 +16,7 @@
 - name: Shenghao Yang
   photo: syang.png
   info: PhD student, started April 2020
-  email: aseemrb@gmail.com
+  email: shenghao.yang@uwaterloo.ca
   number_educ: 2
   education1: Honors B.Sc. in Applied Mathematics, Western University
   education2: Masters in Combinatorics and Optimization, University of Waterloo
@@ -47,7 +47,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.opallab.ml/vacancies">openings</a> for more info
+  info: See <a href="https://www.opallab.ca/vacancies">openings</a> for more info
   email: kimon.fountoulakis@uwaterloo.ca
   number_educ: 0
   education1:
